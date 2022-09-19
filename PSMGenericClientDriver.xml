@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<PSMGenericClientDriver>
+	<Functions>
+		<Function Name="SendPID" Return="Success" />
+      		<Function Name="GetDispatcherParametersBufferLength" Return="Success" />
+      		<Function Name="GetDispatcherParametersString" Return="Success" />
+		<Function Name="MapTSDrives" Return="Success" />
+		<Function Name="GetSessionPropertyBufferLength" Return="Success" />
+		<Function Name="GetSessionProperty" Return="Success" />
+		<Function Name="LogWrite" Return="Success" />
+		<Function Name="FinalizeDispatcher" Return="Success" />
+	</Functions>
+	<SessionProperties>
+		<SessionProperty Name="SessionUUID" Value="0b4d3135-d824-4044-8a3f-555a72b72577" />
+		<SessionProperty Name="Username" Value="nirmal.idm@gmail.com" />
+		<SessionProperty Name="Address" Value="https://lastpass.com/?ac=1&lpnorefresh=1" />
+		<SessionProperty Name="Password" Value="XXXXXXX" />
+	</SessionProperties>
+</PSMGenericClientDriver>
